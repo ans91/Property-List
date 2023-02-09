@@ -1,0 +1,58 @@
+export const propertyList = [
+    {
+      img: "./home2.jpg",
+      type: "2 Bedroom duplex for Sale",
+      cost: "$ 40000",
+      add: "884 Shore St. La Habra, CA 90631",
+      des: "Furnishing packages, maintenance coordination, and guest operations by our Compony",
+    },
+    {
+      img: "./home3.jpg",
+      type: "2 Bedroom duplex for Sale",
+      cost: "$ 40000",
+      add: "884 Shore St. La Habra, CA 90631",
+      des: "Furnishing packages, maintenance coordination, and guest operations by our Compony",
+    },
+    {
+      img: "./home4.png",
+      type: "2 Bedroom duplex for Sale",
+      cost: "$ 40000",
+      add: "884 Shore St. La Habra, CA 90631",
+      des: "Furnishing packages, maintenance coordination, and guest operations by our Compony",
+    },
+    {
+      img: "./home2.jpg",
+      type: "2 Bedroom duplex for Sale",
+      cost: "$ 40000",
+      add: "884 Shore St. La Habra, CA 90631",
+      des: "Furnishing packages, maintenance coordination, and guest operations by our Compony",
+    },
+    {
+      img: "./home5.jpg",
+      type: "2 Bedroom duplex for Sale",
+      cost: "$ 40000",
+      add: "884 Shore St. La Habra, CA 90631",
+      des: "Furnishing packages, maintenance coordination, and guest operations by our Compony",
+    },
+    {
+      img: "./home1.jpg",
+      type: "2 Bedroom duplex for Sale",
+      cost: "$ 40000",
+      add: "884 Shore St. La Habra, CA 90631",
+      des: "Furnishing packages, maintenance coordination, and guest operations by our Compony",
+    },
+    {
+      img: "./home5.jpg",
+      type: "2 Bedroom duplex for Sale",
+      cost: "$ 40000",
+      add: "884 Shore St. La Habra, CA 90631",
+      des: "Furnishing packages, maintenance coordination, and guest operations by our Compony",
+    },
+    {
+      img: "./home1.jpg",
+      type: "2 Bedroom duplex for Sale",
+      cost: "$ 40000",
+      add: "884 Shore St. La Habra, CA 90631",
+      des: "Furnishing packages, maintenance coordination, and guest operations by our Compony",
+    },
+  ];

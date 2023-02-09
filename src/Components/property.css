@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+.property {
+    display: flex;
+    width: calc(100%/3.3);
+    box-shadow: 0.2rem 0.2rem 0.2rem #e2dfdf;
+}
+
+.property-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.property-type{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.property-cost{
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.property-add{
+    color: grey;
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+}
+
+.property-des{
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+
+.propertyButton {
+    width: 6rem;
+    background-color: rgb(197, 197, 197);
+    border-color: transparent;
+    margin-bottom: 0.5rem;
+}
+
+.headding {
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.property-child-wrap{
+    padding: 1rem;
+}
+
+    @media (min-width: 20em) and (max-width: 30em) {
+        .property {
+            width: 90%;
+            padding: 0rem;
+            margin-bottom: 1.5rem;
+        }
+
+    }
+    @media (min-width: 30.0625em) and (max-width: 48em) {
+        .property {
+            width: calc(100%/2.3);
+            padding: 0rem;
+            margin-bottom: 1rem;
+        }
+    }
+
+    @media (min-width: 48.0625em) and (max-width: 64em) {
+        .property {
+            width: calc(100%/4.3);
+            padding: 0rem;
+            margin-bottom: 1rem;
+        }
+    }
+
+    @media (min-width: 64.0625em) and (min-width: 75em) {
+        .property {
+            width: calc(100%/5.3);
+            padding: 0rem;
+            margin-bottom: 1rem;
+            
+        }
+    }
+
+
+
