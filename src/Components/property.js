@@ -11,7 +11,7 @@ const Property = () => {
           <div className="property">
             <div className="property-box">
               <div className="property-img">
-                <img src={e.img} width={"100%"} height={"180rem"} alt="Image"/>
+                <img src={e.img} width={"100%"} height={"180rem"}/>
               </div>
               <div className="property-child-wrap">
                 <div className="property-type">{e.type}</div>
