@@ -18,7 +18,7 @@ const Property = () => {
                 <div className="property-cost">{e.cost}</div>
                 <div className="property-add">{e.add}</div>
                 <div className="property-des">{e.des}</div>
-                <button className="propertyButton">Submit</button>
+                <button className="propertyButton">Book Now</button>
               </div>
             </div>
           </div>
